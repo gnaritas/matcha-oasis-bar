@@ -1,0 +1,8 @@
+{
+  "name": "matcha-oasis-bar",
+  "version": "1.0.0",
+  "description": "Matcha Oasis Bar — matcha & bubble tea bar at 113 W. Mountain St, Kernersville NC (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
